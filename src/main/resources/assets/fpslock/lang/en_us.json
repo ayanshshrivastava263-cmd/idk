@@ -1,0 +1,5 @@
+{
+  "key.fpslock.toggle": "Toggle target lock + FPS overlay",
+  "key.fpslock.mode": "Switch target type (mobs/players)",
+  "key.category.fpslock.main": "FPS Lock"
+}
